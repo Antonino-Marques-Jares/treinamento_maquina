@@ -16,7 +16,7 @@ Os algoritmos de classificação são algoritmos supervisionados, nos quais pass
 
 Para este exemplo, vamos utilizar um conjunto de dados (dataset) criado em 1938 e utilizado até os dias de hoje, o dataset da flor de íris (Iris Dataset).
 
-Esse dataset contém informações de cinquenta amostras de três diferentes *classes de flor de íris (Iris setosa, Iris virginica e Iris versicolor)*. 
+Esse dataset contém informações de cinquenta amostras de três diferentes **classes de flor de íris (Iris setosa, Iris virginica e Iris versicolor)**. 
 No total, são quatro características para cada amostra, sendo elas o comprimento e a largura, em centímetros, das sépalas e das pétalas da rosa.
 
 3. 
