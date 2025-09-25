@@ -22,7 +22,7 @@ Esse dataset contém informações de cinquenta amostras de três diferentes **c
 
 No total, são quatro características para cada amostra, sendo elas o comprimento e a largura, em centímetros, das sépalas e das pétalas da rosa.
 
-3. Exemplo de treinamento não supervisionado ‒ agrupamento
+3. Exemplo de treinamento não supervisionado ‒ **agrupamento**
    
 Exemplos de algoritmo de agrupamento são k-means e Mean-Shift
 
