@@ -12,7 +12,7 @@ Vamos utilizar essa série histórica e aplicar o algoritmo de regressão linear
 
 Código: regressao.py e DataSet: dados_dengue.csv
 
-2. Supervisionado ‒ **classificação**
+2. Exemplo de treinamento supervisionado ‒ **classificação**
 
 Os algoritmos de classificação são algoritmos supervisionados, nos quais passamos um conjunto de características sobre um determinado item de uma classe, de forma que o algoritmo consiga compreender, utilizando apenas as características, qual a classe de um item não mapeado.
 
