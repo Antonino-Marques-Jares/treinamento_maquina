@@ -1,4 +1,4 @@
-# treinamento de maquina
+# treinamento de máquina
 
 1. Exemplo de treinamento supervisionado – **regressão linear**
    
